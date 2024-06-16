@@ -1,1 +1,1 @@
-# Python-Platformer
+Download and run main.py
